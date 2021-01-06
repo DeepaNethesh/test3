@@ -27,7 +27,7 @@ h2 {
     background-color: burlywood;
     color:orangered;
     bottom: 50px;
-    
+
 }
 p {
     padding-left: 500px;
@@ -46,9 +46,3 @@ a {
     margin-right: 100px;
 }
 
-.opera, .wattamulla, .kiama, .stanwell, .bridge {
-    display: inline-block;
-    width:200px;
-    height: 50px;
-    
-}
