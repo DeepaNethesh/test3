@@ -21,12 +21,14 @@ h2 {
 }
 .footer {
     
-    text-align: center;
+   
     font-weight: bold;
     font-size: large;
     background-color: burlywood;
     color:orangered;
     bottom: 50px;
+
+    text-align: center;
 
 }
 p {
@@ -38,9 +40,10 @@ p {
     color: deepskyblue;
     position: relative;
     bottom: 100px;
+    
 }
 a {
-    color:mediumblue;
+    color:blueviolet;
 }
 #places {
     margin-right: 100px;
